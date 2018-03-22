@@ -6,7 +6,7 @@
   "license": "Apache-2.0",
   "source": "https://github.com/jainprasuk1996/daksh-puppet-systemd",
   "project_page": "https://github.com/jainprasuk1996/daksh-puppet-systemd",
-  "issues_url": "none",
+  "issues_url": "https://github.com/jainprasuk1996/daksh-puppet-systemd/issues",
   "dependencies": [
 
   ],
